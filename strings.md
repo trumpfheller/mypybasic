@@ -3,7 +3,7 @@ title: Strings
 category: Strings
 layout: post
 ---
-> [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
+> [Strings](./strings.md) || [Variables](./variables.md) || [Lists](./lists.md) || [Tuples](./tuples.md) || [Dictionary](./dictionary.html) ||
 >  [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [OOP](./oop.html) ||
 
 ***
@@ -135,6 +135,7 @@ pets.index("&")
 
 ### String methods
 
+
 | String methods | what it does | 
 |:-------------|:------------------|:------|
 | string.lower() / string.upper()           | Returns a copy of the string with all lower / upper case characters | 
@@ -152,6 +153,7 @@ pets.index("&")
 - lstrip and rstrip methods to remove whitespace only from the left or the right side of the string, respectively.
 - count() method can be used to return the number of times a substring appears in a string. This can be handy for finding out how many characters appear in a string, or counting the number of times a certain word appears in a sentence or paragraph.
 - endswith() method: to check if a string ends with a given substring. This will return True if the substring is found at the end of the string, and False if not.
+
 
 ```python
 "Forest".endswidth("rest")
