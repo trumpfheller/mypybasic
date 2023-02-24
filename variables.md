@@ -3,7 +3,7 @@ title: Variables & Data types
 category: Variables
 layout: post
 ---
-> [Strings](./strings.html) || [Variables](./variables.html) || [Lists](./lists.html) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
+> [Strings](./strings.md) || [Variables](./variables.md) || [Lists](./lists.md) || [Tuples](./tuples.html) || [Dictionary](./dictionary.html) ||
 >  [Control](./control.html) || [Function](./function.html)|| [Files](./files.html) || [OOP](./oop.html) ||
 
 ***    
